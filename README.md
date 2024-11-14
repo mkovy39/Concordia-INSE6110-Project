@@ -110,7 +110,7 @@ CryptoProject
 
 ## Acknowledgments
 
-This project was completed as part of **INSE6110** coursework at Concordia University, **Fall 2023**. I would like to thank **Dr. Makan Pourzandi** for his guidance in understanding and applying cryptographic concepts.
+This project was completed as part of **INSE6110** coursework at Concordia University, **Fall 2023**. I would like to thank **Ayda Basyouni** for his guidance in understanding and applying cryptographic concepts.
 
 --- 
 
